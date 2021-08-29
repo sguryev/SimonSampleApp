@@ -1,6 +1,6 @@
 # SimonSampleApp
 
-Run the app:
+Run the app:  
 0. Checkout the code locally
 1. Open Rider or VS
 2. Delete `app.db` file to start from scratch if needed
